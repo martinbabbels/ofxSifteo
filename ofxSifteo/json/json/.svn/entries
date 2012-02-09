@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://jefftimesten@ofxjtt.googlecode.com/svn/trunk/ofxJSON/lib/include/json
+https://jefftimesten@ofxjtt.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8b28aa2f-20fc-c581-b822-1716b169dbb0
+
+json.h
+file
+
+
+
+add
+
+value.h
+file
+
+
+
+add
+
+writer.h
+file
+
+
+
+add
+
+features.h
+file
+
+
+
+add
+
+reader.h
+file
+
+
+
+add
+
+config.h
+file
+
+
+
+add
+
+autolink.h
+file
+
+
+
+add
+
+forwards.h
+file
+
+
+
+add
+
